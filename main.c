@@ -1,10 +1,10 @@
-//////////////////////////////////////////////////////////////////////
-//	Virtual Private Network Project		 							//
-//									By: Yiming Xiao, May 2014		//												
-//	File name: main.c												//
-//	This file implements some basic command line parameters parsing	//												
-//	and utilize the functions defined in client.c and server.c		//
-//////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////
+//	Virtual Private Network Project		 		         //
+//	By: Yiming Xiao, May 2014		                         //												
+//	File name: main.c					         //
+//	This file implements some basic command line parameters parsing	 //												
+//	and utilize the functions defined in client.c and server.c       //
+///////////////////////////////////////////////////////////////////////////
 #include "client.h"
 #include "server.h"
 
